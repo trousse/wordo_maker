@@ -1,0 +1,19 @@
+{
+  "name": "wordo_maker",
+  "version": "1.0.0",
+  "description": "bavaroich to wordographer2",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trousse/wordo_maker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trousse/wordo_maker/issues"
+  },
+  "homepage": "https://github.com/trousse/wordo_maker#readme"
+}
